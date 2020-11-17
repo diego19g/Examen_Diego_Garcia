@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ballen/distical": "^2.0",
+        "sujalpatel/inttoenglish": "^1.0",
+        "symfony/routing": "^5.1"
+    }
+}
